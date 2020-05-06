@@ -1,0 +1,6 @@
+Choose 2 random numbers between 0 to 5 
+first number = row
+second number = column
+from the chosen point either do 
+a) keep the row constant and do column++ 3 times to get 3 horizontal dot coms
+b) keep the column constant and do rows++ 3 times to get vertical dot coms
